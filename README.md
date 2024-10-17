@@ -1,5 +1,3 @@
-Script in Python to transform disdrometer data into netcdf files.
-
 The file to run is _parsivel_make_nc.py_
 
 Change the number of "days ago" in _parsivel_make_nc.py_ and then run
